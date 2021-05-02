@@ -1,4 +1,4 @@
-Detaylı bilgi için -> https://github.com/mustafayigit34/flutter-mobilSorgular-YazLab/files/6412284/Rapor.pdf
+Daha fazla bilgi için --> [Proje Raporu](https://github.com/mustafayigit34/flutter-mobilSorgular-YazLab/files/6412286/Rapor.pdf)
 
 # mobil_sorgular
 
