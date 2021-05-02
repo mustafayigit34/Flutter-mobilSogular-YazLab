@@ -1,3 +1,5 @@
+Detaylı bilgi için -> https://github.com/mustafayigit34/flutter-mobilSorgular-YazLab/files/6412284/Rapor.pdf
+
 # mobil_sorgular
 
 A new Flutter project.
