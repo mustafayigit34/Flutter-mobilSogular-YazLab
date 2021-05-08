@@ -19,7 +19,7 @@ bir mobil uygulama tasarlanmıştır.
 Gezinge verileri hareket halindeki nesnelerin konumlarını ve hareketle ilgili diğer bilgileri içerir.
 The New York City Taxi and Limousine Commission (TLC) sarı taksi, yeşil taksi, kiralık
 araçlarla ilgilenmektedir. TLC düzenli olarak tamamlanan her taksi yolculuğu bilgilerini
-kaydetmektedir. Bu proje kapsamında Aralık 2020’de yayınlanan sarı taksi verisi kullanılacaktır. <br> <br>
+kaydetmektedir. Bu proje kapsamında Aralık 2020’de yayınlanan sarı taksi verisi kullanılacaktır. <br>
 
 Uygulamada bulut ortamından veriler çekilerek bir sonraki başlıkta belirtilen her bir sorgu
 tipinden birer sorguyu gerçekleştirmeniz beklenmektedir.
