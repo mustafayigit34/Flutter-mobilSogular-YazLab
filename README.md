@@ -19,17 +19,17 @@ bir mobil uygulama tasarlanmıştır.
 Uygulamada bulut ortamından veriler çekilerek bir sonraki başlıkta belirtilen her bir sorgu
 tipinden birer sorguyu gerçekleştirmeniz beklenmektedir.
 Harita ile ilgili sorgularda Google Map API kullanılmalıdır.
-#### * Tip 1
+#### Tip 1
 Aşağıdaki sorgulardan birine mutlaka çözüm bulunmalıdır.
 - En fazla yolcu taşınan 5 günü ve toplam yolcu sayılarını listeleyiniz.
 - Belirli mesafenin altında en çok seyahat yapılan günü ve seyahat uzunluğunu bulunuz (mesafe seçilebilmeli).
 - :ok_hand: En uzun mesafeli 5 yolculuktaki gün ve mesafeleri listeleyiniz.
-#### * Tip 2
+#### Tip 2
 Aşağıdaki sorgulardan birine mutlaka çözüm bulunmalıdır.
 - :ok_hand: İki tarih arasında belirli bir lokasyondan hareket eden araç sayısı kaçtır (tarihler ve lokasyon seçilebilmeli)?
 - Günlük seyahat başına düşen ortalama alınan ücretlere göre; en az ücret alınan iki tarih arasındaki günlük alınan ortalama ücretleri listeleyiniz.
 - İki tarih arasında seyahat edilen en az mesafeli 5 yolculuk hangisidir (tarihler seçilebilmeli)?
-#### * Tip 3
+#### Tip 3
 Aşağıdaki sorgulardan birine mutlaka çözüm bulunmalıdır.
 - :ok_hand: Belirli bir günde en uzun seyahatin harita üstünde yolunu çiziniz (gün seçilebilmeli). <br>
 Başlangıç ve varış konumları lokasyonun merkezi kabul edip mesafeye görre bir yol bulunmalıdır.
