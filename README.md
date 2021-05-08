@@ -25,8 +25,18 @@ Aşağıdaki sorgulardan birine mutlaka çözüm bulunmalıdır.
 - Belirli mesafenin altında en çok seyahat yapılan günü ve seyahat uzunluğunu bulunuz (mesafe seçilebilmeli).
 - :ok_hand: En uzun mesafeli 5 yolculuktaki gün ve mesafeleri listeleyiniz.
 #### Tip 2
-
+Aşağıdaki sorgulardan birine mutlaka çözüm bulunmalıdır.
+- :ok_hand: İki tarih arasında belirli bir lokasyondan hareket eden araç sayısı kaçtır (tarihler ve lokasyon seçilebilmeli)?
+- Günlük seyahat başına düşen ortalama alınan ücretlere göre; en az ücret alınan iki tarih arasındaki günlük alınan ortalama ücretleri listeleyiniz.
+- İki tarih arasında seyahat edilen en az mesafeli 5 yolculuk hangisidir (tarihler seçilebilmeli)?
 #### Tip 3
+Aşağıdaki sorgulardan birine mutlaka çözüm bulunmalıdır.
+- :ok_hand: Belirli bir günde en uzun seyahatin harita üstünde yolunu çiziniz (gün seçilebilmeli). <br>
+Başlangıç ve varış konumları lokasyonun merkezi kabul edip mesafeye görre bir yol bulunmalıdır.
+- Belirli bir günde aynı konumdan hareket eden araçların rastgele 5’inin yolunu çiziniz (gün ve konum seçilebilmeli). <br>
+Başlangıç ve varış konumları lokasyonun merkezi kabul edip mesafeye göre bir yol bulunmalıdır.
+- En az 3 yolcunun bulunduğu seyahatlerden en kısa mesafeli ve en uzun mesafeli yolu çiziniz. <br>
+Başlangıç ve varış konumları lokasyonun merkezi kabul edip mesafeye göre bir yol bulunmalıdır.
 
 
 ## Yöntem
