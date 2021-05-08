@@ -34,5 +34,9 @@ olup indirildikten sonraki düzenlemeler ile Firestore'da şu şekilde görülme
 ![zones](https://user-images.githubusercontent.com/65903573/117537654-1944cc00-b00b-11eb-8704-9213d2e70b1c.png) <br>
 Belge (collection9 isimleri sırasıyla "trips" ve "zones" olmalıdır. <br>
 Belgede değişiklik yapılmasının sebebi, Google Maps'te yol çizdirme işleminin yapılabilmesi için enlem (latitude) ve boylam (longitude) bilgilerine ihtiyaç duyulmasıdır. <br><br>
-Uygulama çalıştırıldığında şu şekilde görülecektir: <br>
-![anasayfa](https://user-images.githubusercontent.com/65903573/117537902-6d03e500-b00c-11eb-91f0-80252be08b8c.png) <br>
+Uygulama çalıştırıldığında şu şekilde görülecektir: <br><br>
+![anasayfa](https://user-images.githubusercontent.com/65903573/117537902-6d03e500-b00c-11eb-91f0-80252be08b8c.png) <br><br>
+### Aşama 1 (Tip 1 Sorgu):
+Kullanıcı ana menü ekranında “TİP 1 SORGU” butonuna tıkladığında Firebase Firestore üzerinden “en uzun mesafeli beş yolculuktaki gün ve mesafeler” isterini sağlayacak veriler çekilmektedir. Verilerin çekilmesini sağlayan sorgu, uygulamanın içerisinden Firebase’e gönderilmektedir. Sorgu ile elde edilen veriler cihaz ekranında art arda sıralanarak gösterilmektedir. <br><br> 
+![sorgu1](https://user-images.githubusercontent.com/65903573/117537968-ba805200-b00c-11eb-9f69-9a6bd31fb923.png) <br><br>
+![sorgu1_sayfa](https://user-images.githubusercontent.com/65903573/117538004-d5eb5d00-b00c-11eb-98d8-898f9c2ffc4d.png) <br><br>
