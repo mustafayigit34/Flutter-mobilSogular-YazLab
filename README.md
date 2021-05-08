@@ -19,7 +19,16 @@ bir mobil uygulama tasarlanmıştır.
 Uygulamada bulut ortamından veriler çekilerek bir sonraki başlıkta belirtilen her bir sorgu
 tipinden birer sorguyu gerçekleştirmeniz beklenmektedir.
 Harita ile ilgili sorgularda Google Map API kullanılmalıdır.
-#### sa
+#### Tip 1
+Aşağıdaki sorgulardan birine mutlaka çözüm bulunmalıdır.
+- En fazla yolcu taşınan 5 günü ve toplam yolcu sayılarını listeleyiniz.
+- Belirli mesafenin altında en çok seyahat yapılan günü ve seyahat uzunluğunu bulunuz (mesafe seçilebilmeli).
+- En uzun mesafeli 5 yolculuktaki gün ve mesafeleri listeleyiniz.
+#### Tip 2
+
+#### Tip 3
+
+
 ## Yöntem
 Bu projede izlenilen yol aşağıda anlatılmıştır: <br>
 Proje isterlerine geçmeden önce projede 
