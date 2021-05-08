@@ -15,7 +15,11 @@ olan veriler ekranda saydırılarak sıralanmıştır. Üçüncü ve son aşamad
 Google Maps ürünleri dahil olmuş ve kullanıcıdan alınan sınırlamalara göre üretilen 
 sonuç harita üzerinde çizdirilerek kullanıcıya görsel bir sonuç sunulmuştur. Kullanıcıların tüm bu işlemleri yapabilmesi için 
 bir mobil uygulama tasarlanmıştır.
-
+### Proje İsterleri
+Uygulamada bulut ortamından veriler çekilerek bir sonraki başlıkta belirtilen her bir sorgu
+tipinden birer sorguyu gerçekleştirmeniz beklenmektedir.
+Harita ile ilgili sorgularda Google Map API kullanılmalıdır.
+#### sa
 ## Yöntem
 Bu projede izlenilen yol aşağıda anlatılmıştır: <br>
 Proje isterlerine geçmeden önce projede 
