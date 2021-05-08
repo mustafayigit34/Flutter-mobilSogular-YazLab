@@ -29,8 +29,10 @@ Veriler https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page sitesinden
 Dosya isimleri: <br><br>
 ```yellow tripdata 2020-12.csv``` <br>
 ``` taxi+ zone lookup.csv``` <br><br>
-olup indirildikten sonraki düzenlemeler ile Firestore'da şu şekilde görülmektedir: <br>
+olup indirildikten sonraki düzenlemeler ile Firestore'da şu şekilde görülmektedir: <br><br>
 ![trips](https://user-images.githubusercontent.com/65903573/117537692-57da8680-b00b-11eb-9005-bd2d86916325.png)
 ![zones](https://user-images.githubusercontent.com/65903573/117537654-1944cc00-b00b-11eb-8704-9213d2e70b1c.png) <br>
 Belge (collection9 isimleri sırasıyla "trips" ve "zones" olmalıdır. <br>
-Belgede değişiklik yapılmasının sebebi, Google Maps'te yol çizdirme işleminin yapılabilmesi için enlem (Latitude) ve boylam (longitude) bilgilerine ihtiyaç duyulmasıdır. <br>
+Belgede değişiklik yapılmasının sebebi, Google Maps'te yol çizdirme işleminin yapılabilmesi için enlem (latitude) ve boylam (longitude) bilgilerine ihtiyaç duyulmasıdır. <br><br>
+Uygulama çalıştırıldığında şu şekilde görülecektir: <br>
+![anasayfa](https://user-images.githubusercontent.com/65903573/117537902-6d03e500-b00c-11eb-91f0-80252be08b8c.png) <br>
