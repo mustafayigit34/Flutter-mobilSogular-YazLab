@@ -16,6 +16,11 @@ Google Maps ürünleri dahil olmuş ve kullanıcıdan alınan sınırlamalara g�
 sonuç harita üzerinde çizdirilerek kullanıcıya görsel bir sonuç sunulmuştur. Kullanıcıların tüm bu işlemleri yapabilmesi için 
 bir mobil uygulama tasarlanmıştır.
 ### Proje İsterleri
+Gezinge verileri hareket halindeki nesnelerin konumlarını ve hareketle ilgili diğer bilgileri içerir.
+The New York City Taxi and Limousine Commission (TLC) sarı taksi, yeşil taksi, kiralık
+araçlarla ilgilenmektedir. TLC düzenli olarak tamamlanan her taksi yolculuğu bilgilerini
+kaydetmektedir. Bu proje kapsamında Aralık 2020’de yayınlanan sarı taksi verisi kullanılacaktır. <br> <br>
+
 Uygulamada bulut ortamından veriler çekilerek bir sonraki başlıkta belirtilen her bir sorgu
 tipinden birer sorguyu gerçekleştirmeniz beklenmektedir.
 Harita ile ilgili sorgularda Google Map API kullanılmalıdır.
