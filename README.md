@@ -3,7 +3,7 @@ Daha fazla bilgi için --> [Proje Raporu](https://github.com/mustafayigit34/flut
 # Mobil Sorgular
 ## Kurulum
 Öncelikle ```pubspec.yaml``` dosyasında ```flutter pub get``` komutunu çalıştırmanız gerekmektedir. Aksi taktirde çalışmayacaktır.
-Daha sonra ```"lib\main.dart"``` yolunu izleyerek ```flutter emulators --launch "Your Emulator Name"``` ile sanal cihazını çalıştırıp ardından ```flutter run``` komutuyla uygulamayı çalıştırabilirsiniz.
+Daha sonra ```"lib\main.dart"``` yolunu izleyerek ```flutter emulators --launch "Your Emulator Name"``` (örn: flutter emulators --launch Pixel_2 API 26)ile sanal cihazınızı çalıştırıp ardından ```flutter run``` komutuyla uygulamayı çalıştırabilirsiniz.
 ## Giriş
 Bu projede Firebase Firestore üzerinden 
 çeşitli sorgular yapılarak filtrelenmiş veriler alınmış, ardından bu veriler ile proje isterleri üç aşama halinde gerçeklenmiştir.
