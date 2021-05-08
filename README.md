@@ -1,6 +1,7 @@
 Daha fazla bilgi için --> [Proje Raporu](https://github.com/mustafayigit34/flutter-mobilSorgular-YazLab/files/6412286/Rapor.pdf)
 
 # Mobil Sorgular
+## Kurulum
 Öncelikle ```pubspec.yaml``` dosyasında ```flutter pub get``` komutunu çalıştırmanız gerekmektedir. Aksi taktirde çalışmayacaktır.
 Daha sonra ```"lib\main.dart"``` yolunu izleyerek ```flutter emulators --launch "Your Emulator Name"``` ile sanal cihazını çalıştırıp ardından ```flutter run``` komutuyla uygulamayı çalıştırabilirsiniz.
 ## Giriş
@@ -14,3 +15,13 @@ olan veriler ekranda saydırılarak sıralanmıştır. Üçüncü ve son aşamad
 Google Maps ürünleri dahil olmuş ve kullanıcıdan alınan sınırlamalara göre üretilen 
 sonuç harita üzerinde çizdirilerek kullanıcıya görsel bir sonuç sunulmuştur. Kullanıcıların tüm bu işlemleri yapabilmesi için 
 bir mobil uygulama tasarlanmıştır.
+
+## Yöntem
+Bu projede izlenilen yol aşağıda anlatılmıştır:
+Proje isterlerine geçmeden önce projede 
+kullanılacak verilerin sayısının azaltılması 
+ve bulut ortamına yüklenmesi işlemleri 
+Python dili kullanılarak yapılmıştır. Daha 
+sonra ise proje isterlerine geçilmiştir. Proje 
+üç tip sorgu için üç aşama şeklinde 
+tasarlanmıştır.
