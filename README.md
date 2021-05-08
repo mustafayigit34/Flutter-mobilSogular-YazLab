@@ -40,3 +40,37 @@ Uygulama çalıştırıldığında şu şekilde görülecektir: <br><br>
 Kullanıcı ana menü ekranında “TİP 1 SORGU” butonuna tıkladığında Firebase Firestore üzerinden “en uzun mesafeli beş yolculuktaki gün ve mesafeler” isterini sağlayacak veriler çekilmektedir. Verilerin çekilmesini sağlayan sorgu, uygulamanın içerisinden Firebase’e gönderilmektedir. Sorgu ile elde edilen veriler cihaz ekranında art arda sıralanarak gösterilmektedir. <br><br> 
 ![sorgu1](https://user-images.githubusercontent.com/65903573/117537968-ba805200-b00c-11eb-9f69-9a6bd31fb923.png) <br><br>
 ![sorgu1_sayfa](https://user-images.githubusercontent.com/65903573/117538004-d5eb5d00-b00c-11eb-98d8-898f9c2ffc4d.png) <br><br>
+### Aşama 2 (Tip 2 Sorgu):
+Kullanıcı ana menü ekranında “TİP 2 
+SORGU” butonuna tıkladığında başlangıçbitiş tarihleri ve mekan adı seçerek Firebase Firestore üzerinden “iki tarih arasında 
+belirli bir lokasyondan hareket eden araç 
+sayısı” isterini sağlayacak veriler çekilmektedir. Verilerin çekilmesini sağlayan 
+sorgu, uygulamanın içerisinden Firebase’e 
+gönderilmektedir. Sorgu ile elde edilen veriler cihaz ekranında detaylarıyla birlikte 
+sıralanarak gösterilmiştir. Sadece araç sayısını göstermek yerine her yolculuğun detayları ile birlikte gösterilmesi ile ister daha da geliştirilmiştir. <br><br>
+![sorgu2](https://user-images.githubusercontent.com/65903573/117538061-177c0800-b00d-11eb-8754-2172128ea4f0.png) <br><br>
+![sorgu2_sayfa](https://user-images.githubusercontent.com/65903573/117538078-26fb5100-b00d-11eb-9740-d87e325749d5.png) <br><br>
+### Aşama 3 (Tip 3 Sorgu):
+Kullanıcı ana menü ekranında “TİP 3 
+SORGU” butonuna tıkladığında bir tarih
+seçerek ve hemen ardından “Haritada Göster” butonuna tıklayarak Firebase Firestore 
+üzerinden “belirli bir günde en uzun seyahatin harita üzerinde yolunu çizdirme” isterini sağlayacak veriler çekilmektedir. Verilerin çekilmesini sağlayan sorgu, uygulamanın içerisinden Firebase’e gönderilmektedir. Sorgu ile elde edilen veriler (enlem-boylam bilgileri) doğrultusunda Google 
+Maps üzerinde çizdirilerek cihaz ekranında 
+gösterilmiştir. <br><br>
+![sorgu3](https://user-images.githubusercontent.com/65903573/117538124-5b6f0d00-b00d-11eb-87f6-a0ba644f6f7a.png) <br><br>
+![sorgu3_sayfa1](https://user-images.githubusercontent.com/65903573/117538133-6aee5600-b00d-11eb-8412-26a070ba1233.png) <br><br>
+![sorgu3_sayfa2](https://user-images.githubusercontent.com/65903573/117538143-7b063580-b00d-11eb-9829-8a52ca30bf9d.png) <br><br>
+## Akış Şeması
+![sema](https://user-images.githubusercontent.com/65903573/117538164-96714080-b00d-11eb-947f-8f9f98fa37cf.png) <br><br>
+## Referanslar
+- https://www.udemy.com/course/flutter-widgets-ve-dart-programlama/
+- https://www.udemy.com/course/flutter-dart-sifirdan-mobil-app-gelistiriciligine/
+- https://flutter.dev/docs/development/ui/widgets/material
+- https://www.youtube.com/playlist?list=PLJ5EAGz05Q3FJG96SH8GoWcSUg8IHwtnt
+- https://pub.dev/
+- https://dart.dev/guides
+- https://stackoverflow.com/
+- https://firebase.flutter.dev/
+- https://kodestat.gitbook.io/flutter/
+- https://cloud.google.com/maps-platform
+- https://www.youtube.com/watch?v=16XTGHGxwSw
