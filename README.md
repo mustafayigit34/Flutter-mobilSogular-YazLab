@@ -97,7 +97,6 @@ gösterilmiştir. <br><br>
 - https://www.youtube.com/playlist?list=PLJ5EAGz05Q3FJG96SH8GoWcSUg8IHwtnt
 - https://pub.dev/
 - https://dart.dev/guides
-- https://stackoverflow.com/
 - https://firebase.flutter.dev/
 - https://kodestat.gitbook.io/flutter/
 - https://cloud.google.com/maps-platform
