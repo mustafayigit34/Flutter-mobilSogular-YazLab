@@ -2,7 +2,7 @@ Daha fazla bilgi için --> [Proje Raporu](https://github.com/mustafayigit34/flut
 
 # Mobil Sorgular
 Öncelikle ```pubspec.yaml``` dosyasında
-```flutter pub get```
+<br> ```flutter pub get``` <br>
 komutunu çalıştırmanız gerekmektedir. Aksi taktirde çalışmayacaktır.
 Daha sonra "lib\main.dart" yolunu izleyerek ```flutter emulators --launch "Your Emulator Name"``` ile sanal cihazını çalıştırıp ardından ```flutter run``` komutuyla uygulamayı çalıştırabilirsiniz.
 ## Giriş
