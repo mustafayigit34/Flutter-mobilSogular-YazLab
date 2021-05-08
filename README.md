@@ -1,6 +1,8 @@
-Daha fazla bilgi için --> [Proje Raporu](https://github.com/mustafayigit34/flutter-mobilSorgular-YazLab/files/6412286/Rapor.pdf)
+# MOBİL SORGULAR
+YazLab 5. Proje
 
-# Mobil Sorgular
+### Daha fazla bilgi için --> [Proje Raporu](https://github.com/mustafayigit34/flutter-mobilSorgular-YazLab/files/6412286/Rapor.pdf)
+
 ## Kurulum
 Öncelikle ```pubspec.yaml``` dosyasında ```flutter pub get``` komutunu çalıştırmanız gerekmektedir. Aksi taktirde çalışmayacaktır.
 Daha sonra ```"lib\main.dart"``` yolunu izleyerek ```flutter emulators --launch "Your Emulator Name"``` (örn: flutter emulators --launch Pixel_2 API 26) ile sanal cihazınızı çalıştırıp ardından ```flutter run``` komutuyla uygulamayı çalıştırabilirsiniz.
