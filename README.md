@@ -32,5 +32,5 @@ Dosya isimleri: <br>
 olup indirildikten sonraki düzenlemeler ile Firestore'da şu şekilde görülmektedir: <br>
 ![trips](https://user-images.githubusercontent.com/65903573/117537692-57da8680-b00b-11eb-9005-bd2d86916325.png)
 ![zones](https://user-images.githubusercontent.com/65903573/117537654-1944cc00-b00b-11eb-8704-9213d2e70b1c.png) <br>
-                      trips                                          zones
-Belge (collection9 isimleri sırasıyla "trips" ve "zones" olmalıdır.
+Belge (collection9 isimleri sırasıyla "trips" ve "zones" olmalıdır. <br>
+Belgede değişiklik yapılmasının sebebi, Google Maps'te yol çizdirme işleminin yapılabilmesi için enlem (Latitude) ve boylam (longitude) bilgilerine ihtiyaç duyulmasıdır. <br>
