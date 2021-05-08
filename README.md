@@ -25,5 +25,11 @@ Python dili kullanılarak yapılmıştır. Daha
 sonra ise proje isterlerine geçilmiştir. Proje 
 üç tip sorgu için üç aşama şeklinde 
 tasarlanmıştır. <br>
-Veriler https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page
-
+Veriler https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page sitesinden alınıp birkaç düzenleme ile Firebase Firestore'a aktarılmıştır.
+Dosya isimleri: <br>
+```yellow tripdata 2020-12.csv``` <br>
+``` taxi+ zone lookup.csv``` <br>
+olup indirildikten sonraki düzenlemeler ile şu şekilde olmuştur: <br>
+![zones](https://user-images.githubusercontent.com/65903573/117537654-1944cc00-b00b-11eb-8704-9213d2e70b1c.png)
+![trips](https://user-images.githubusercontent.com/65903573/117537692-57da8680-b00b-11eb-9005-bd2d86916325.png)
+Belge (collection9 isimleri sırasıyla "zones" ve "trips" olmalıdır.
