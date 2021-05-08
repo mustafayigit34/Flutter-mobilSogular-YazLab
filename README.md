@@ -17,11 +17,13 @@ sonuç harita üzerinde çizdirilerek kullanıcıya görsel bir sonuç sunulmuş
 bir mobil uygulama tasarlanmıştır.
 
 ## Yöntem
-Bu projede izlenilen yol aşağıda anlatılmıştır:
+Bu projede izlenilen yol aşağıda anlatılmıştır: <br>
 Proje isterlerine geçmeden önce projede 
 kullanılacak verilerin sayısının azaltılması 
 ve bulut ortamına yüklenmesi işlemleri 
 Python dili kullanılarak yapılmıştır. Daha 
 sonra ise proje isterlerine geçilmiştir. Proje 
 üç tip sorgu için üç aşama şeklinde 
-tasarlanmıştır.
+tasarlanmıştır. <br>
+Veriler https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page
+
