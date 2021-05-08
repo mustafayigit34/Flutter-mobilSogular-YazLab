@@ -1,6 +1,9 @@
 Daha fazla bilgi için --> [Proje Raporu](https://github.com/mustafayigit34/flutter-mobilSorgular-YazLab/files/6412286/Rapor.pdf)
 
 # Mobil Sorgular
+Öncelikle "pubspec.yaml" dosyasında
+```flutter pub get```
+komutunu çalıştırmanız gerekmektedir. Aksi taktirde çalışmayacaktır.
 ## Giriş
 Bu projede Firebase Firestore üzerinden 
 çeşitli sorgular yapılarak filtrelenmiş veriler alınmış, ardından bu veriler ile proje isterleri üç aşama halinde gerçeklenmiştir.
